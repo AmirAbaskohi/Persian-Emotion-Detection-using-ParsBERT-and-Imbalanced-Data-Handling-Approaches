@@ -25,7 +25,8 @@ Furthermore, the feature extraction is not embedded in the main model and you ne
 
 Finally to train the model use the following command:
 ```
-python3 binary_classifier.py [target_emotion_label(Anger/Happiness/Hatred/Wonder/Sadness/Fear)] [data_address] [model_name]
+python3 binary_classifier.py \\
+   [target_emotion_label(Anger/Happiness/Hatred/Wonder/Sadness/Fear)] [data_address] [model_name]
 ```
 
 For help you can use:
@@ -39,7 +40,8 @@ Again you may change file like `hyperparameteres.py` for some minor changes. Pre
 
 Finally to train the model use the following command:
 ```
-python3 binary_classifier.py [data_address] [model_name] [threshold]
+python3 binary_classifier.py \\
+   [data_address] [model_name] [threshold]
 ```
 
 For help you can use:
