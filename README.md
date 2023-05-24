@@ -63,7 +63,7 @@ python3 main.py -h
 
 
 ## Citation
-```
+```bibtex
 @misc{https://doi.org/10.48550/arxiv.2211.08029,
   doi = {10.48550/ARXIV.2211.08029},
   url = {https://arxiv.org/abs/2211.08029},
