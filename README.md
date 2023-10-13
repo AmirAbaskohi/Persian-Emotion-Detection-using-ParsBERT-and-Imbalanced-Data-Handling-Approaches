@@ -50,9 +50,9 @@ python3 main.py -h
 ```
 
 ## Address to PLM Used in This Study
-* HooshvareLab/bert-base-parsbert-uncased
-* xlm-roberta-base
-* xlm-emo-t
+* [HooshvareLab/bert-base-parsbert-uncased](https://huggingface.co/HooshvareLab/bert-base-parsbert-uncased)
+* [xlm-roberta-base](https://huggingface.co/xlm-roberta-base)
+* [xlm-emo-t](https://huggingface.co/MilaNLProc/xlm-emo-t)
 
 ## Results
 ![image](https://user-images.githubusercontent.com/50926437/202441958-805b8386-090f-47a4-85f8-b8052a87385e.png)
