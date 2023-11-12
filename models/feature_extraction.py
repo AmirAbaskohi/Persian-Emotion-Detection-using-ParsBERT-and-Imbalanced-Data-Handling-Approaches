@@ -47,7 +47,7 @@ def query(payload, API_URL, headers):
 def extract_POS_tags(text):
 
     API_URL = "https://api-inference.huggingface.co/models/wietsedv/xlm-roberta-base-ft-udpos28-fa"
-    headers = {"Authorization": "Bearer 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"}
+    headers = {"Authorization": "YOUR TOKEN"}
         
     output = query({
         "inputs": text,
